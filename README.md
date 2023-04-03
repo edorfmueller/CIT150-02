@@ -11,7 +11,7 @@ CIT150-02 was installed on the permeate stream of the reverse osmosis unit in th
 | Process Variable | Range | Accuracy |
 | ---- | ---- | ---- |
 | Conductivity | 0.04 to 20 μS/cm | 2% o.r. |
-| Temperature | -20 to 100 °C (-4 to 212 °F) | 2% o.r |
+| Temperature | -20 to 100 °C (-4 to 212 °F) | 2% o.r. |
 
 [Sensor Manual](https://portal.endress.com/wa001/dla/5000549/5588/000/03/BA01147CEN_0417.pdf) & [Transmitter Manual](https://portal.endress.com/wa001/dla/5000301/8271/000/09/BA00444CEN_2017.pdf)
 
