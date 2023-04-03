@@ -7,4 +7,4 @@ CIT150-02 was installed on the permeate stream of the reverse osmosis unit in th
 | ----------- | ----------- | ---- | ---- |
 | CIT150-02 | Permeate PPM | Endress+Hauser | Liquiline CM444 |
 
-![Rose-Hulman Logo](
+![Rose-Hulman Logo](https://github.com/edorfmueller/CIT150-02/blob/main/Rose%20Hulman%20Logo.png)
